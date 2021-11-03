@@ -1,0 +1,19 @@
+=================================================
+DO NOT REMOVE ANY SETTINGS, OR CHANGE THEIR ORDER
+=================================================
+
+mouse.png x offset: -10
+mouse.png y offset: -15
+mouse.png scalar: 1
+
+Background red: 6
+Background green: 255
+Background blue: 0
+
+Flipper red: 243
+Flipper green: 0
+Flipper blue: 0
+
+Flipper edge red: 150
+Flipper edge green: 0
+Flipper edge blue: 0  
